@@ -20,11 +20,11 @@ header p{
     color: DarkCyan;
     margin-left: 100;
 }
-ol li{
-    font-family: Arial, Helvetica, sans-serif;
-}
 #font{
     font-family: 'Courier New', Courier, monospace;
+}
+.font2{
+    font-family: Arial, Helvetica, sans-serif
 }
 ul li:first-child{
     height: 30px;
